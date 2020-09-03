@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  justify-content: center;
+}
+.pokemon-list {
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
